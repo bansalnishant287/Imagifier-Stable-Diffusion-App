@@ -6,4 +6,4 @@
 #### Step 2 : Generate authorization token from hugging face and paste it in 'authtoken.py'.
 #### Step 3 : Run 'app.py'.
 ### Screenshots
-![img 1](https://user-images.githubusercontent.com/55021717/192582428-fb2124b7-b8fc-456e-a912-5806b1e3c7fa.png)
+![img 1](https://github.com/bansalnishant287/Imagifier-Stable-Diffusion-App/blob/025864aedf4cc888607eecce938fdc6600cc648b/1.png)
