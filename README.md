@@ -5,3 +5,5 @@
 #### Step 1 : Install all the dependencies from 'requirements.txt'.
 #### Step 2 : Generate authorization token from hugging face and paste it in 'authtoken.py'.
 #### Step 3 : Run 'app.py'.
+### Screenshots
+![img 1](https://user-images.githubusercontent.com/55021717/192582428-fb2124b7-b8fc-456e-a912-5806b1e3c7fa.png)
