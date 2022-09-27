@@ -8,4 +8,4 @@
 ### Screenshots
 ![img 1](https://github.com/bansalnishant287/Imagifier-Stable-Diffusion-App/blob/025864aedf4cc888607eecce938fdc6600cc648b/1.png)
 ![img 2](https://github.com/bansalnishant287/Imagifier-Stable-Diffusion-App/blob/d4473157253f29b6fa01c3b251827c0e9c08800c/2.png)
-![img 3]()
+![img 3](https://github.com/bansalnishant287/Imagifier-Stable-Diffusion-App/blob/5b6dfb72cc8839efdb48d4df69fc4d16ee15518b/3.png)
